@@ -61,6 +61,63 @@ Offline Work: You can work on your code, create branches, commit changes, and ev
 Efficient Branching and Merging: Branching and merging are very fast and lightweight since Git deals with local repositories.
 In summary, Git is a Distributed Version Control (DVC) system, where each user has a complete copy of the entire repository on their local machine. This allows for offline work, efficient branching and merging, and provides more robustness and flexibility in collaborative software development compared to Centralized Version Control (CVC) systems.
 
+## Basics commands on the command line
+
+#### To change directory
+`cd`
+### To list all the files in the directory
+`ls`
+### To print working directory
+`pwd`
+### Make directory
+`mkdir`
+### Create empty file
+`touch file_name`
+### Copy files and directories from one location to another
+`cp`
+### move or rename files from one location to another
+`mv`
+### remove files and directories 
+`rm`
+### Concatenate and display the content of the file
+`cat`
+### Display file content page by page 
+`less`
+### Display first few lines of the page
+`head`
+### Display last few lines of the page
+`tail`
+### Search for specific pattern or words in the file
+`grep`
+### Seach for specific files and directories based on specific criteria
+`find`
+
+
+chmod - Change file permissions:
+
+Modify the permissions (read, write, execute) of a file or directory.
+chown - Change file ownership:
+
+Change the owner of a file or directory.
+ps - Display information about running processes:
+
+Display information about the active processes.
+kill - Terminate processes:
+
+Terminate or send signals to running processes.
+df - Display disk usage:
+
+Show information about disk space usage.
+du - Display file and directory space usage:
+
+Show disk usage for files and directories.
+tar - Archive files:
+
+Create or extract tar archives.
+
+
+
+
 
 
 
