@@ -116,6 +116,15 @@ tar - Archive files:
 Create or extract tar archives.
 
 
+### List config details
+ `git config --list`
+ ### Change the username of the configuration
+ `git config --global user.name "Name"`
+ ### Change the email id of the configuration
+ `git config --global user.email "email@gmail.com"`
+ 
+
+
 
 
 
